@@ -1,2 +1,2 @@
 # math
-Jupyter notebooks for math self study
+Jupyter notebooks/python scripts for math self-study
